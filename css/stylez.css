@@ -1,0 +1,8 @@
+h1{
+  font-weight: bold;
+}
+.special{
+  font-style: italic;
+  color: purple;
+  font-weight: 400;
+}
